@@ -1,16 +1,57 @@
-### Hi there 👋
+<head>
+  <h1>Sobre mim</h1>
+</head>
 
-<!--
-**EliezerBergamo/EliezerBergamo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<section>
+  <div>
+    <h3>Desenvolvimento Web</h3>
+    <ul>
+      <li>
+        <h4>Backend</h4>
+        <p align="justify">
+          Desenvolvo páginas web usando <b>Python</b> juntamente com o framework <b>Django</b>.
+        </p>
+      </li>
+      <li>
+        <h4>Frontend</h4>
+        <p align="justify">
+          Crio interfaces atraentes e responsivas usando <b>HTML</b>, <b>CSS</b> e<b>JavaScript</b> juntamente com o framework <b>Bootstrap</b>.
+        </p>
+      </li>
+    </ul>
+  </div><hr>
 
-Here are some ideas to get you started:
+  <div>
+    <h3>Banco de dados</h3>
+    <p align="justify">
+      Faço modelagem em banco de dados SQL, atualmente uso o PostgreSQL.
+    </p>
+  </div><hr>
+  
+  <div>
+    <h3>Versionamento</h3>
+    <p align="justify">
+      Trabalho com repositórios <b>Git</b>, branches, merges e pull requests.
+    </p>
+  </div><hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <div>
+    <h3>UX/UI Design</h3>
+    <p align="justify">
+      Em complemento ao desenvolvimento web, estudei sobre essa área para poder proporcionar experiências melhores para os usuários, e isso
+      foi feito através de técnicas de pesquisa e de interfaces gráficas que eu desenvolvi no <b>Figma</b>.
+    </p>
+  </div><hr>
+
+  <div>
+    <h3>Habilidades</h3>
+    <ul>
+      <li>
+        Espanhol: iniciante
+      </li>
+      <li>
+        Inglês: avançado
+      </li>
+    </ul>
+  </div>
+</section>
