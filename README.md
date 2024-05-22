@@ -29,7 +29,7 @@
         <a href="https://cadastros-6p6u.onrender.com/">Clique aqui</a>
       </li>
     </ul>
-  </div>
+  </div><hr>
 
   <div>
     <h3>Banco de dados</h3>
