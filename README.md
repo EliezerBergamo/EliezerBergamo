@@ -51,6 +51,15 @@
       Em complemento ao desenvolvimento web, estudei sobre essa área para poder proporcionar experiências melhores para os usuários, e isso
       foi feito através de técnicas de pesquisa e de interfaces gráficas que eu desenvolvi no <b>Figma</b>.
     </p>
+    <h4>Projetos</h4>
+    <ul>
+      <li>
+        <a href="https://www.behance.net/gallery/181720133/Book-Scan">Book Scan</a>
+      </li>
+      <li>
+        <a href="https://www.behance.net/gallery/159380077/PC-Finder">PC Finder</a>
+      </li>
+    </ul>
   </div><hr>
 
   <div>
