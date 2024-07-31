@@ -1,4 +1,19 @@
-<head>
+# Welcome!
+
+## I'm Eliezer! Let me share a bit about myself
+
+Developer Back-end focused in Python with Django
+
+## About me 
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/EliezerBergamo)](https://github.com/EliezerBergamo)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=http://www.linkedin.com/in/eliezer-bergamo)](http://www.linkedin.com/in/eliezer-bergamo)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send/?phone=5544920022968&text=&type=phone_number&app_absent=0)](https://api.whatsapp.com/send/?phone=5544920022968&text=&type=phone_number&app_absent=0)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eliezerbergamo@gmail.com)](mailto:eliezerbergamo@gmail.com)
+
+
+- Thanks for visiting. 
+<!--<head>
   <h1>Sobre mim</h1>
 </head>
 
@@ -15,7 +30,7 @@
       <li>
         <h4>Frontend</h4>
         <p align="justify">
-          Crio interfaces atraentes e responsivas usando <b>HTML</b>, <b>CSS</b> e<b>JavaScript</b> juntamente com o framework <b>Bootstrap</b>.
+          Crio interfaces atraentes e responsivas usando <b>HTML</b>, <b>CSS</b> e<b>JavaScript</b>.
         </p>
       </li>
     </ul>
@@ -73,4 +88,4 @@
       </li>
     </ul>
   </div>
-</section>
+</section>-->
