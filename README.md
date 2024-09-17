@@ -49,9 +49,9 @@
   <section>
     <div>
       <!--<a href="https://github.com/EliezerBergamo"><img alt="GitHub" src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link" target="_blank"></a>-->
+      <a href="mailto:eliezerbergamo@gmail.com"><img alt = "Gmail" src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link" target="_blank"></a>
       <a href="http://www.linkedin.com/in/eliezer-bergamo"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link" target="_blank"></a>
       <a href="https://api.whatsapp.com/send/?phone=5544920022968&text=&type=phone_number&app_absent=0"><img alt ="WhatsApp" src="https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send/?phone=5544920022968&text=&type=phone_number&app_absent=0" target="_blank"></a>
-      <a href="mailto:eliezerbergamo@gmail.com"><img alt = "Gmail" src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link" target="_blank"></a>
     </div>
   </section>
 </main>
