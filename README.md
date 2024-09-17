@@ -1,18 +1,61 @@
-# Welcome!
+<head>
+  <h2>Hi, I'm Eliezer! It's great to have you here 😉</h2>
+  <h3>Developer Back-end focused in Python with Django</h3>
 
-## I'm Eliezer! Let me share a bit about myself
+  ###
+</head>
 
-Developer Back-end focused in Python with Django
+<main>
+  <section>
+    <div align="left">
+      <img src="https://github-readme-stats.vercel.app/api?username=EliezerBergamo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EliezerBergamo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=gotham&hide_border=false&order=2" height="150" alt="languages graph"  />
+    </div>
+  
+  ###
+  </section>
+  
+  <section>
+    <div align="left">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+      <img width="12" />
+      <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+      <img width="12" />-->
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+      <img width="12" />
+      <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+      <img width="12" />-->
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+      <img width="12" />
+      <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+      <img width="12" />-->
+      <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />-->
+    </div>
+  
+  ###
+  </section>
 
-## About me 
+  ##
+  <section>
+    <div>
+      <a href="https://github.com/EliezerBergamo"><img alt="GitHub" src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link" target="_blank"></a>
+      <a href="http://www.linkedin.com/in/eliezer-bergamo"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link" target="_blank"></a>
+      <a href="https://api.whatsapp.com/send/?phone=5544920022968&text=&type=phone_number&app_absent=0"><img alt ="WhatsApp" src="https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send/?phone=5544920022968&text=&type=phone_number&app_absent=0" target="_blank"></a>
+      <a href="mailto:eliezerbergamo@gmail.com"><img alt = "Gmail" src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link" target="_blank"></a>
+    </div>
+  </section>
+</main>
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/EliezerBergamo)](https://github.com/EliezerBergamo)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=http://www.linkedin.com/in/eliezer-bergamo)](http://www.linkedin.com/in/eliezer-bergamo)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send/?phone=5544920022968&text=&type=phone_number&app_absent=0)](https://api.whatsapp.com/send/?phone=5544920022968&text=&type=phone_number&app_absent=0)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eliezerbergamo@gmail.com)](mailto:eliezerbergamo@gmail.com)
-
-
-- Thanks for visiting. 
 <!--<head>
   <h1>Sobre mim</h1>
 </head>
