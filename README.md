@@ -5,13 +5,13 @@
 </head>
 
 <main>
-  <section>
+  <!-- <section>
     <div align="left">
       <img src="https://github-readme-stats.vercel.app/api?username=EliezerBergamo&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1" height="150" width="300" alt="stats graph" /><img src="https://github-readme-stats.vercel.app/api/top-langs?username=EliezerBergamo&locale=en&hide_title=false&layout=compact&langs_count=4&theme=gotham&hide_border=false&order=2" height="150" width="400" alt="languages graph" />
     </div>
   
   ###
-  </section>
+  </section> -->
   
   <section>
   <div align="left">
